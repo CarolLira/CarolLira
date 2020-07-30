@@ -11,7 +11,7 @@ Now I work at Made in Web & Mobile and a fascinated with web design, like to cre
 
 - 🔭 I’m currently working on https://cuteflix.carollira.vercel.app/
 
-### Hi 👋
+### Olá 👋
 
 <p>Meu nome é <strong>Carol</strong> e trabalho com desenvolvimento Front-End a quase 1 ano.</p>
 <p>Esbarrei no mundo do desenvolvimento web em 2010 editando templates pro meu falecido blog no Tumblr.
