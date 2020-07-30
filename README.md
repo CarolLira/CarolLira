@@ -1,8 +1,8 @@
 ### Hi o/ 👋
 
 <p>My name is <b>Carol Lira</b> and I'm working with Front-End development for almost a year now.</p>
-<p>I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.</p>
-<p>Now I work at Made in Web & Mobile and a fascinated with web and mobile design, like to create projects to improve and learn new things often.</p>
+I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.
+Now I work at Made in Web & Mobile and a fascinated with web and mobile design, like to create projects to improve and learn new things often.</p>
 
 <p>📫 Find me:</p>  
 
