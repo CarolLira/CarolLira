@@ -6,7 +6,6 @@ Now I work at Made in Web & Mobile and a fascinated with web design, like to cre
 
 <p>📫 Find me:</p>  
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CaarolLira)](https://twitter.com/CaarolLira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
 
 <!--
