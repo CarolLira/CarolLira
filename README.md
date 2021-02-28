@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p>My name is <strong>Carol</strong> and I'm working with Front-End development for almost a year now.</p>
+<p>My name is <strong>Carol</strong> and I'm working with Front-End development.</p>
 <p>I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.
 Now I work at Made in Web & Mobile and a fascinated with web design, like to create projects and learn new things often.</p>
 
