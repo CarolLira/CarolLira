@@ -2,11 +2,14 @@
 
 <p>My name is <strong>Carol</strong> and I'm working with Front-End development.</p>
 <p>I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.
-Now I work at Made in Web & Mobile and a fascinated with web design, like to create projects and learn new things often.</p>
+Now I work at Made in Web & Mobile and a fascinated with web development, like to create projects and learn new things often.</p>
 
 <p>📫 Find me:</p>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
+
+[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolLira)](https://github.com/CarolLira/github-readme-stats)
+
 
 <!--
 ### Olá 👋
