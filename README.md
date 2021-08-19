@@ -9,7 +9,10 @@ Now I work at Made in Web & Mobile and a fascinated with web development, like t
 ##
 <p align="center">
   <a href="https://github.com/CarolLira">
-    <img height="180em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/><img height="180em" display="inline-block" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
+    <img align="center"height="180em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
+  </a>
+  <a>
+    <img align="center" height="180em" display="inline-block" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
   </a>
 </p>
 
