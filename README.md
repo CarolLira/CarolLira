@@ -4,11 +4,12 @@
 <p>I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.
 Now I work at Made in Web & Mobile and a fascinated with web development, like to create projects and learn new things often.</p>
 
-<p>📫 Find me:</p>  
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
 
-[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolLira)](https://github.com/CarolLira/github-readme-stats)
+<a href="https://github.com/CarolLira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
+</a>
 
 
 <!--
