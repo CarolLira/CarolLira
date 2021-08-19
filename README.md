@@ -6,6 +6,7 @@ Now I work at Made in Web & Mobile and a fascinated with web development, like t
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
 
+##
 <p align="center">
   <a href="https://github.com/CarolLira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
