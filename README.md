@@ -21,15 +21,16 @@ Now I work at Made in Web & Mobile and a fascinated with web development, like t
 
 ##
 <div align="center">
-  <a href="https://github.com/CarolLira">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
-  </a>
-  <a>
-    <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
-  </a>
   
 <!-- ## -->
 ![Snake animation](https://github.com/carollira/carollira/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href="https://github.com/CarolLira">
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
+  </a>
+  <a>
+    <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
+  </a>
 </div>
 
 
