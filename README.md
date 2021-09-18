@@ -7,14 +7,19 @@ Now I work at Made in Web & Mobile and a fascinated with web development, like t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
 
 ##
-<p align="center">
+<div align="center">
   <a href="https://github.com/CarolLira">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=CarolLira&show_icons=true&hide_title=true&theme=tokyonight"/>
   </a>
   <a>
     <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolLira&layout=compact&langs_count=8&theme=tokyonight&hide_title=true"/>
   </a>
-</p>
+  
+<!-- ## -->
+![Snake animation](https://github.com/carollira/carollira/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
 
 
 <!--
