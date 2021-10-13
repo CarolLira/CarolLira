@@ -1,8 +1,7 @@
-### Hi 👋
+### Oi 👋
 
-<p>My name is <strong>Carol</strong> and I'm working with Frontend development.</p>
-<p>I bumped into the world of web development in 2010 by editing templates for my old gone Tumblr blog.
-Now I work at Made in Web & Mobile and a fascinated with web development, like to create projects and learn new things often.</p> 
+<p>Iniciei no mundo de desenvolvimento de software em 2018 quando decidi cursar Ciência da Computação, em 2019 consegui meu primeiro estágio na Madeinweb & Mobile para trabalhar com Frontend usando Javascript, JQuery, HTML e CSS. Foi quando realmente tomei gosto pela área e conheci pessoas incríveis com as quais pude aprender muito.</p>
+<p>Em junho de 2020 me tornei Frontend Jr e trabalhei com frameworks como React JS e Vue JS. Sigo estudando e me aprimorando constantemente, gosto de trabalhar em equipe e compartilhar conhecimento com outras pessoas.</p> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolyne-lira-734ba7165/)](https://www.linkedin.com/in/carolyne-lira-734ba7165/)
 
